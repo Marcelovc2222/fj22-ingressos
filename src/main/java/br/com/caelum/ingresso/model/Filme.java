@@ -36,6 +36,7 @@ public class Filme {
 		this.nome = nome;
 		this.duracao = duracao;
 		this.genero = genero;
+		this.preco = preco;
 	}
 
 	public Integer getId() {
